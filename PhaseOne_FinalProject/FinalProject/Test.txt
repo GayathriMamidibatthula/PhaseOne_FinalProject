@@ -1,0 +1,5 @@
+Teacher ID	 Teacher Name	 Teacher Class and Section
+101		Gayathri		5 B
+102		Srividya		8 B
+103		SashiKala		10 C
+104		Shanthi Sri		9 B
